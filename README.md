@@ -6,4 +6,4 @@
 - JavaScript
 - Swiper Slider
 
-  Ссылка на проект: https://syomin-ilua.github.io/dari-dushoi/dari-dushoi.html
+Ссылка на проект: https://syomin-ilua.github.io/dari-dushoi/dari-dushoi.html
